@@ -20,7 +20,7 @@ public class MainActivity extends Activity {
     //Añado un comentario desde Github como si estubiéramos trabajando varias personas en un mismo proyecto 
     //y alguien sube algo que me interesa bajar a mi repositorio local
     
-    //a ver si marcha bien desde Pep
+    /* Soy Pep y hago un comentario */
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
