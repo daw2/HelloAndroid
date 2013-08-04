@@ -17,8 +17,7 @@ public class MainActivity extends Activity {
     // Esto es un comentario 
 
 
-    //Añado un comentario desde Github como si estubiéramos trabajando varias personas en un mismo proyecto 
-    //y alguien sube algo que me interesa bajar a mi repositorio local
+  //comentario3
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
